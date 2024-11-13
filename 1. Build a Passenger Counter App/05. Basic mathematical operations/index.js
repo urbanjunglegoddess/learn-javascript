@@ -1,6 +1,6 @@
 // document.getElementById("count").innerText = 5
 
-// cmd+k+c
+// // cmd+k+c
 // let firstBatch = 5
 // let secondBatch = 7
 // let count = firstBatch + secondBatch
